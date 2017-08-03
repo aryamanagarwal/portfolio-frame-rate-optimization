@@ -10,5 +10,5 @@ The performance issues have been delt with to give a lag free 60fps experience
 
 ## How to run
 There are two folders:
-Minified version:It can be used to test the pageinsights score and 60 fps test.
-Uminified version:It does not deliver 90+ pageinsight score but is usefull if someone wants to read code.
+* Minified version:It can be used to test the pageinsights score and 60 fps test.
+* Uminified version:It does not deliver 90+ pageinsight score but is usefull if someone wants to read code.
